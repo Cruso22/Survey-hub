@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Survey Hub</title>
+    <style>
+        /* This makes the page look modern */
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
+        .container { max-width: 500px; margin: auto; }
+        h1 { color: #1a73e8; text-align: center; }
+        .card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .btn { display: block; text-align: center; background: #1a73e8; color: white; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 10px; }
+        .tag { background: #e8f0fe; color: #1a73e8; padding: 4px 8px; border-radius: 4px; font-size: 12px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎯 My Top Survey Picks</h1>
+    <p style="text-align: center;">Verified sites to earn extra USD in Nigeria.</p>
+
+    <div class="card">
+        <span class="tag">Most Reliable</span>
+        <h3>ySense</h3>
+        <p>The best option for international users. Great for surveys and tasks.</p>
+        <a href="INSERT_YOUR_LINK_HERE" class="btn">Start Earning</a>
+    </div>
+
+    <div class="card">
+        <span class="tag">Easy Tasks</span>
+        <h3>TimeBucks</h3>
+        <p>Get paid for social media tasks and daily polls.</p>
+        <a href="https://www.swagbucks.com/profile/r_233958341?rp=r_233958341" class="btn">Join TimeBucks</a>
+    </div>
+</div>
+
+</body>
+</html>
